@@ -1,4 +1,4 @@
-name: RIR RDP
+name: rir_rdp_remote
  
 on: 
   workflow_dispatch:
